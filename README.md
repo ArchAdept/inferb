@@ -2,7 +2,7 @@
 
 [![Operating Systems](https://img.shields.io/badge/os-macOS-yellow?style=for-the-badge)](https://github.com/ArchAdept/inferb)
 [![Architectures](https://img.shields.io/badge/arch-arm64-purple?style=for-the-badge)](https://github.com/ArchAdept/inferb)
-[![License](https://img.shields.io/github/license/archadept/inferb?label=license&style=for-the-badge)](https://github.com/ArchAdept/inferb/blob/main/LICENSE.md)
+[![License](https://img.shields.io/github/license/ArchAdept/inferb?label=license&style=for-the-badge)](https://github.com/ArchAdept/inferb/blob/main/LICENSE.md)
 
 Small example program demonstrating how cache timing side-channels can be used to infer
 the contents of memory.

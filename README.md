@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/github/license/ArchAdept/inferb?label=license&style=for-the-badge)](https://github.com/ArchAdept/inferb/blob/main/LICENSE.md)
 
 Small example program demonstrating how cache timing side-channels can be used to infer
-the contents of memory.
+the contents of memory, as introduced in lesson 25 of the [ArchAdept Barriers 101 training course](https://archadept.com/barriers101).
 
 ## Prerequisites
 
